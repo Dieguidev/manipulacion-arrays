@@ -1,0 +1,24 @@
+{
+  "name": "manipulacion-de-arrays-en-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-for-each.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dieguidev/manipulacion-arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dieguidev/manipulacion-arrays/issues"
+  },
+  "homepage": "https://github.com/Dieguidev/manipulacion-arrays#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
